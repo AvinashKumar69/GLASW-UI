@@ -1,0 +1,67 @@
+.hero-image {
+  width: 450px;
+  padding: 0px;
+}
+
+.hero-title {
+  font-size: 28px;
+  color: #0f9d58;
+}
+
+.hero-para {
+  font-size: 20px;
+}
+
+.ourVision-title {
+  font-size: 55px;
+  color: #0f9d58;
+  text-shadow: 2px 2px #0f9d58;
+}
+
+.whatAreWeDelivering-title {
+  font-size: 55px;
+  color: #0f9d58;
+  text-shadow: 2px 2px #0f9d58;
+}
+
+.whyAreWeDoingThis-title {
+  font-size: 45px;
+  color: #0f9d58;
+  text-shadow: 2px 2px #0f9d58;
+}
+
+.howAreWeDoingThis-title {
+  font-size: 45px;
+  color: #0f9d58;
+  text-shadow: 2px 2px #0f9d58;
+}
+
+.bg-success {
+  background-color: #198754 !important;
+}
+
+.navbar-options-custom {
+  /* font-size: 30px; */
+  font-size: large;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.dropdown-menu {
+  min-width: 16rem;
+  text-align: center;
+}
+
+.aboutus-heading {
+  text-shadow: 2px 2px #fff;
+}
+
+.bg-gray-500 {
+  background-color: #0f9d58;
+}
+
+.bg-green-500 {
+  background-color: #0f9d58;
+}
