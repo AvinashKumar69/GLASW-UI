@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GLASW-UI/static/css/main.12ade4cf.css",
+    "main.js": "/GLASW-UI/static/js/main.3daeff3b.js",
+    "static/js/787.12839d8f.chunk.js": "/GLASW-UI/static/js/787.12839d8f.chunk.js",
+    "static/media/glaswLOGO1.png": "/GLASW-UI/static/media/glaswLOGO1.6d37a3f58e21d67b0aed.png",
+    "index.html": "/GLASW-UI/index.html",
+    "main.12ade4cf.css.map": "/GLASW-UI/static/css/main.12ade4cf.css.map",
+    "main.3daeff3b.js.map": "/GLASW-UI/static/js/main.3daeff3b.js.map",
+    "787.12839d8f.chunk.js.map": "/GLASW-UI/static/js/787.12839d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ade4cf.css",
+    "static/js/main.3daeff3b.js"
+  ]
+}
