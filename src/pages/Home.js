@@ -3,7 +3,6 @@ import HeroSection from '../components/HeroSection';
 import OurVision from '../components/OurVision';
 import WhatAreWeDelivering from '../components/WhatAreWeDelivering';
 
-
 const Home = () => {
     return (
         <>
